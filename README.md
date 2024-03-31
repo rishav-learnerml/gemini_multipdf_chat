@@ -73,7 +73,7 @@ Follow these instructions to set up and run this project on your local machine.
 4. **Run the Application:**
 
    ```bash
-   streamlit run main.py
+   streamlit run app.py
    ```
 
 5. **Upload PDFs:**
